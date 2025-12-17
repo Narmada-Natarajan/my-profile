@@ -1,5 +1,9 @@
+<h1 align="center">👋 Hi, I'm Narmada</h1>
+<h3 align="center">A passionate Web Developer</h3>
+
+
 # 💫 About Me:
-👋Hi, I am Narmada <br>Beginner developer | B.Tech CSE (AI & ML) <br>Learning web development, AI/ML, and GitHub<br>Passionate about building, learning, and growing 🚀<br>
+Learning web development, AI/ML, and GitHub<br>Passionate about building, learning, and growing 🚀<br>
 
 
 ## 🌐 Socials:
