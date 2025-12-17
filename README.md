@@ -1,75 +1,22 @@
-<div align="center">
+<h1 align="center">👋 Hi, I'm Narmada</h1>
+<h3 align="center">A passionate Web Developer</h3>
 
-<!-- Animated Typing Intro -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Hi+👋+I'm+Narmada;Passionate+Web+Developer;Building+%26+Learning+Everyday+🚀" alt="Typing SVG" />
+# 💫 About Me:
+Learning Web Development, Embracing AI, and Using GitHub<br> Building, learning, and growing 🚀<br>
 
-</div>
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/narmada-natarajan-38342628a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:narmadanatarajan3629@gmail.com) 
 
-<h3 align="center" style="color:#38BDF8">✨ About Me ✨</h3>
-<p align="center">
-Learning Web Development • Embracing AI • Using GitHub<br/>
-<b>Building, learning, and growing every day 🚀</b>
-</p>
-
----
-
-<h3 align="center">🌐 Connect With Me</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/narmada-natarajan-38342628a/">
-  <img src="https://img.shields.io/badge/LinkedIn-38BDF8?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:narmadanatarajan3629@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-</p>
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Narmada-Natarajan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Narmada-Natarajan&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Narmada-Natarajan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Narmada-Natarajan&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<h3 align="center">💻 Tech Stack</h3>
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,html,css,js,react,tailwind&theme=dark" />
-</p>
-
----
-
-<h3 align="center">📊 GitHub Stats</h3>
-
-<div align="center">
-
-<!-- GitHub Stats -->
-
-<img src="https://github-readme-stats.vercel.app/api?username=Narmada-Natarajan&show_icons=true&theme=tokyonight&title_color=38BDF8&icon_color=FACC15&text_color=E5E7EB&bg_color=0F172A&hide_border=true" height="170" />
-
-<!-- Streak Stats -->
-
-<img src="https://streak-stats.demolab.com?user=Narmada-Natarajan&theme=tokyonight&hide_border=true&background=0F172A&ring=38BDF8&fire=FACC15&currStreakLabel=38BDF8" height="170" />
-
-</div>
-
-<div align="center">
-
-<!-- Top Languages -->
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narmada-Natarajan&layout=compact&theme=tokyonight&title_color=38BDF8&text_color=E5E7EB&bg_color=0F172A&hide_border=true" />
-
-</div>
-
----
-
-<div align="center">
-
-<!-- Profile Views -->
-
-<img src="https://visitcount.itsvg.in/api?id=Narmada-Natarajan&label=Profile%20Views&color=38BDF8&style=for-the-badge" />
-
-</div>
-
----
-
-<div align="center" style="color:#94A3B8">
-✨ Thanks for visiting my profile! Let's build something amazing together ✨
-</div>
 
